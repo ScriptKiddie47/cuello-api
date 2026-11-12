@@ -1,4 +1,4 @@
-package com.sk.cuello_api;
+package com.sk.cuello;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
